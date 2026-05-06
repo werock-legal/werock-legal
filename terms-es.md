@@ -1,9 +1,9 @@
 # Terminos del Servicio — WeRock
 
 **Ultima actualizacion:** 6 de mayo de 2026
-**Version:** 1.0 (M0)
+**Version:** 1.1 (M0)
 
-Estos terminos regulan el uso de la aplicacion **WeRock** (`https://werock.app`) y servicios asociados, prestados por **WeRock Platform** (en adelante, "WeRock", "nosotros") al usuario registrado (en adelante, "rider" o "tu").
+Estos terminos regulan el uso de la aplicacion **WeRock** (`https://werockapp.com`) y servicios asociados, prestados por **WeRock Platform** (en adelante, "WeRock", "nosotros") al usuario registrado (en adelante, "rider" o "tu").
 
 Al crear una cuenta o usar la app, aceptas estos terminos. Si no estas de acuerdo, no uses la app.
 
@@ -35,7 +35,7 @@ Te comprometes a registrar datos verdaderos. Crear cuentas con email falso, dato
 
 ### 2.3 Una cuenta = una persona
 
-WeRock detecta y bloquea cuentas duplicadas mediante App Check + Play Integrity + caps de ABECs por cuenta + revision manual de patrones sospechosos. Si necesitas multiple cuentas legitimas (ej. una personal y una de tu tienda), abre un caso en `support@werock.app` antes para evitar baneos automaticos.
+WeRock detecta y bloquea cuentas duplicadas mediante App Check + Play Integrity + caps de ABECs por cuenta + revision manual de patrones sospechosos. Si necesitas multiple cuentas legitimas (ej. una personal y una de tu tienda), abre un caso en `support@werockapp.com` antes para evitar baneos automaticos.
 
 ### 2.4 Seguridad de tu cuenta
 
@@ -43,7 +43,7 @@ Eres responsable de:
 
 - Guardar tu contrasena de forma segura (no compartirla).
 - Cerrar sesion en dispositivos que no sean tuyos.
-- Notificarnos en `support@werock.app` si sospechas acceso no autorizado.
+- Notificarnos en `support@werockapp.com` si sospechas acceso no autorizado.
 
 ## 3. Reglas de la comunidad
 
@@ -56,7 +56,7 @@ Al usar WeRock te comprometes a NO:
 5. Manipular el sistema de ABECs, kudos, valoraciones, validaciones o ranking (granjeo).
 6. Hackear, ingenieria inversa, scraping no autorizado o ataques DDoS contra la plataforma.
 7. Subir malware, virus o contenido que pueda danar dispositivos de terceros.
-8. Explotar bugs en lugar de reportarlos a `bugs@werock.app`.
+8. Explotar bugs en lugar de reportarlos a `bugs@werockapp.com`.
 9. Usar la app para actividades comerciales fuera del modulo Pro autorizado.
 
 Las violaciones se sancionan con:
@@ -144,7 +144,7 @@ Nos esforzamos en ofrecer >99% uptime, pero **no garantizamos servicio ininterru
 
 - Mantenimiento programado: te avisaremos en la app.
 - Fallos de proveedores (Firebase down, Stripe down) — fuera de nuestro control directo.
-- Beta cerrada M0: pueden producirse cortes mas frecuentes que en una version GA. Reportalos en `bugs@werock.app`.
+- Beta cerrada M0: pueden producirse cortes mas frecuentes que en una version GA. Reportalos en `bugs@werockapp.com`.
 
 No nos hacemos responsables por danos derivados de cortes de servicio salvo dolo o negligencia grave probada.
 
@@ -170,10 +170,10 @@ Podemos modificar estos terminos. Te avisaremos por email con **15 dias de antel
 
 ## 12. Contacto
 
-- **Atencion al cliente:** `support@werock.app`
-- **Reportes de bug y abuso:** `bugs@werock.app`
-- **Privacidad / RGPD:** `privacy@werock.app`
-- **Asuntos legales:** `legal@werock.app`
+- **Atencion al cliente:** `support@werockapp.com`
+- **Reportes de bug y abuso:** `bugs@werockapp.com`
+- **Privacidad / RGPD:** `privacy@werockapp.com`
+- **Asuntos legales:** `legal@werockapp.com`
 
 ---
 
@@ -182,3 +182,4 @@ Podemos modificar estos terminos. Te avisaremos por email con **15 dias de antel
 | Version | Fecha | Cambios |
 | --- | --- | --- |
 | 1.0 (M0) | 6 may 2026 | Version inicial M0 — beta cerrada Espana, Android only |
+| 1.1 (M0) | 6 may 2026 | Cambio cosmetico: emails de contacto migrados de placeholder `*@werock.app` (no operativo) a alias activos `*@werockapp.com` (Cloudflare Email Routing). URL canonica de la plataforma actualizada a `https://werockapp.com`. Sin cambios en obligaciones, derechos ni responsabilidades. |

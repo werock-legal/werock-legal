@@ -16,8 +16,8 @@ Repositorio público con la documentación legal de la aplicación móvil **WeRo
 
 WeRock es una plataforma móvil para la comunidad rider (skate, surf, snowboard, BMX...). Conecta personas, eventos, spots y conocimiento de la cultura urbana.
 
-- App store (próximamente Play Store closed testing): `com.k3d.werock`
-- Contacto privacidad: `privacy@werock.app` (en proceso de activación)
+- App store (próximamente Play Store closed testing): `com.k3d.werock` (rebrand a `com.werock.app` previsto para Sprint B)
+- Contacto privacidad: `privacy@werockapp.com`
 
 ## Versión
 
@@ -30,3 +30,4 @@ Cualquier cambio material se notificará a las personas usuarias por email con a
 | Fecha | Cambio |
 | --- | --- |
 | 2026-05-06 | Publicación inicial v1.0. Beta cerrada M0. |
+| 2026-05-06 | v1.1: emails de contacto migrados a `*@werockapp.com` (alias activos vía Cloudflare Email Routing). Dominio `werockapp.com` registrado y operativo. |

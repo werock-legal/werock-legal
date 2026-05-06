@@ -26,4 +26,9 @@ Cualquier cambio material en `privacy-es.md` o `terms-es.md`:
 
 ## Contacto
 
-`privacy@werock.app` (en proceso de activación; ver `index.md`).
+- General: `support@werockapp.com`
+- Privacidad / RGPD: `privacy@werockapp.com`
+- Asuntos legales: `legal@werockapp.com`
+- Reportes de bug: `bugs@werockapp.com`
+
+(Todos los alias forwardean a un buzón único gestionado por el equipo.)

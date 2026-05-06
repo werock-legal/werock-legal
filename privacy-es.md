@@ -1,9 +1,9 @@
 # Politica de Privacidad — WeRock
 
 **Ultima actualizacion:** 6 de mayo de 2026
-**Version:** 1.0 (M0)
+**Version:** 1.1 (M0)
 
-WeRock (`https://werock.app`) es una plataforma social y operativa para deportes de accion (patinaje, skate, ciclismo, running) operada por **WeRock Platform** (en adelante, "WeRock", "nosotros"). Esta politica explica que datos personales tratamos de los **riders** registrados, con que finalidad, y como puedes ejercer tus derechos.
+WeRock (`https://werockapp.com`) es una plataforma social y operativa para deportes de accion (patinaje, skate, ciclismo, running) operada por **WeRock Platform** (en adelante, "WeRock", "nosotros"). Esta politica explica que datos personales tratamos de los **riders** registrados, con que finalidad, y como puedes ejercer tus derechos.
 
 Cumplimos con el **Reglamento (UE) 2016/679** (RGPD) y la **Ley Organica 3/2018 de Proteccion de Datos Personales y garantia de los derechos digitales (LOPDGDD)**.
 
@@ -16,7 +16,7 @@ Cumplimos con el **Reglamento (UE) 2016/679** (RGPD) y la **Ley Organica 3/2018 
 | Responsable | WeRock Platform (forma juridica final por confirmar antes de Sprint B) |
 | CIF / NIF | Por publicar antes del lanzamiento publico |
 | Domicilio fiscal | Por publicar antes del lanzamiento publico |
-| Contacto privacidad | `privacy@werock.app` |
+| Contacto privacidad | `privacy@werockapp.com` |
 | Delegado de proteccion de datos (DPO) | No aplica todavia (no superamos los umbrales de la LOPDGDD para nombrar DPO obligatorio en M0) |
 
 Esta seccion se actualizara antes del primer lanzamiento publico (Sprint C) con los datos legales finales.
@@ -107,12 +107,12 @@ Tienes derecho a:
 
 | Derecho | Como ejercerlo |
 | --- | --- |
-| **Acceso** (art. 15) — saber que datos tenemos sobre ti | Email a `privacy@werock.app` o desde "Mi Zona → Privacidad → Solicitar mis datos" (export en JSON, M1) |
-| **Rectificacion** (art. 16) — corregir datos | Editas tu perfil en "Mi Zona" o pide ayuda en `privacy@werock.app` |
-| **Supresion / Borrado** (art. 17) — borrar la cuenta | "Mi Zona → Privacidad → Borrar mi cuenta" (purga inmediata via Cloud Function `deleteUserAccountV1`); o `privacy@werock.app` |
-| **Oposicion** (art. 21) — oponerte a un tratamiento concreto | `privacy@werock.app` indicando que tratamiento te opones |
-| **Limitacion** (art. 18) | `privacy@werock.app` |
-| **Portabilidad** (art. 20) — recibir tus datos en formato leible por maquina | `privacy@werock.app`. Te enviamos un JSON con todo tu perfil + contenido. Tiempo de respuesta: hasta 30 dias |
+| **Acceso** (art. 15) — saber que datos tenemos sobre ti | Email a `privacy@werockapp.com` o desde "Mi Zona → Privacidad → Solicitar mis datos" (export en JSON, M1) |
+| **Rectificacion** (art. 16) — corregir datos | Editas tu perfil en "Mi Zona" o pide ayuda en `privacy@werockapp.com` |
+| **Supresion / Borrado** (art. 17) — borrar la cuenta | "Mi Zona → Privacidad → Borrar mi cuenta" (purga inmediata via Cloud Function `deleteUserAccountV1`); o `privacy@werockapp.com` |
+| **Oposicion** (art. 21) — oponerte a un tratamiento concreto | `privacy@werockapp.com` indicando que tratamiento te opones |
+| **Limitacion** (art. 18) | `privacy@werockapp.com` |
+| **Portabilidad** (art. 20) — recibir tus datos en formato leible por maquina | `privacy@werockapp.com`. Te enviamos un JSON con todo tu perfil + contenido. Tiempo de respuesta: hasta 30 dias |
 | **Retirar consentimiento** | Para marketing: opt-out desde Mi Zona → Notificaciones. Para tracking GPS: revocar permiso del sistema. Para AI: deja de usar el asistente |
 | **Reclamacion ante la AEPD** | Si crees que infringimos tus derechos, puedes reclamar ante la **Agencia Espanola de Proteccion de Datos** (`https://www.aepd.es/`), tras intentar resolverlo con nosotros |
 
@@ -159,7 +159,7 @@ Publicaremos cualquier cambio material aqui con anotacion en la seccion **Histor
 
 Para cualquier consulta sobre esta politica:
 
-- **Email:** `privacy@werock.app`
+- **Email:** `privacy@werockapp.com`
 - **Direccion postal:** publicada antes del lanzamiento publico (Sprint C)
 
 ---
@@ -169,3 +169,4 @@ Para cualquier consulta sobre esta politica:
 | Version | Fecha | Cambios |
 | --- | --- | --- |
 | 1.0 (M0) | 6 may 2026 | Version inicial M0 — beta cerrada Espana, Android only |
+| 1.1 (M0) | 6 may 2026 | Cambio cosmetico: emails de contacto migrados de placeholder `*@werock.app` (no operativo) a alias activos `*@werockapp.com` (Cloudflare Email Routing). Sin cambios en responsable, finalidades, bases legales, cesiones ni plazos. |
