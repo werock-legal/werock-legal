@@ -1,0 +1,21 @@
+title: WeRock - Documentos legales
+description: Politica de privacidad y terminos del servicio de la app WeRock
+theme: jekyll-theme-cayman
+lang: es
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - "*.md"
+exclude:
+  - README.md
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
